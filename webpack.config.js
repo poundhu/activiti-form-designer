@@ -51,7 +51,7 @@ const config = {
     },
     https: false,
     host: 'localhost',
-    port: 3000,
+    port: 3005,
     hot: true,
     compress: true,
     historyApiFallback: true,

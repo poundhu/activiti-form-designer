@@ -8,7 +8,6 @@
   "license": "MIT",
   "scripts": {
     "start": "better-npm-run start",
-    "prod": "better-npm-run prod",
     "mock": "node example/mock/server.js",
     "test": "better-npm-run test",
     "eslint": "eslint \"src/**/*.{js,jsx}\" \"example/**/*.{js,jsx}\"",
@@ -26,12 +25,6 @@
       "command": "webpack-dev-server",
       "env": {
         "HOST_API": "http://localhost:4000"
-      }
-    },
-    "prod": {
-      "command": "webpack-dev-server",
-      "env": {
-        "HOST_API": "http://172.16.11.155:9000/" 
       }
     },
     "test": {

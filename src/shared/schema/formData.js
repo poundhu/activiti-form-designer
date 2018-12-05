@@ -1,9 +1,10 @@
+// 从数据库得到的表单布局信息，用于展示表单
 export default {
-  pageStyle: '客如云',
-  openStartTime: '客如云',
-  openEndTime: '客如云',
-  releaseTime: '客如云',
-  weChatPassword: '四川成都天府软件园',
-  textSubject: 'v1',
+  pageStyle: '',
+  openStartTime: '',
+  openEndTime: '',
+  releaseTime: '',
+  weChatPassword: '',
+  textSubject: '',
   checkedMould: ['1', '2'],
 };

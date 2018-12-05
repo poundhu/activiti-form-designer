@@ -1,8 +1,3 @@
-/**
- * author: huzhengyi
- * desc: 加工渲染树，传人layoutTree 布局树，和需要修改的数据，支持增、删、改、查；
- */
-
 export default class HandleLayoutTree {
   constructor(layoutTree = []) {
     this.layoutTree = layoutTree; // 直接修改引用，无需克隆
