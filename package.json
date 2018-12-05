@@ -2,6 +2,7 @@
   "name": "activiti-form-designer",
   "version": "1.0.0",
   "main": "src/index.js",
+  "description": "基于react-dnd的表单设计器",
   "repository": {
     "type": "git"
   },

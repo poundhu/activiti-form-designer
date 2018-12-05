@@ -1,2 +1,2 @@
-## activiti-form-designer
-  this project make use of react-dnd for draggable form designer,which makes developer build activiti form more easily.
+## activiti-form-designer  
+&ensp;&ensp; 基于React-dnd拖拽库实现的表单设计器，开发者可以进行简单的二次开发就能实现一款满足业务需求的表单设计组件。该设计器的核心思想是对整个表单布局进行保存，在展示时从数据库得到相应的布局schema文件反向解析即可
